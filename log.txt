@@ -8,3 +8,4 @@ IP: 199.119.233.139, Date: 31-08-18, Time:01:41:00, Browser: Mozilla/5.0 (iPhone
 IP: ::1, Date: 31-08-18, Time:01:43:08, Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36Latitude: 43.565604099999995 Longitude: -79.63967389999999
 IP: ::1, Date: 31-08-18, Time:01:43:15, Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36Latitude:  Longitude: 
 IP: ::1, Date: 31-08-18, Time:01:46:32, Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36Latitude: 43.565604099999995 Longitude: -79.63967389999999
+IP: ::1, Date: 31-08-18, Time:18:41:14, Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36Latitude: 43.565623099999996 Longitude: -79.639673
